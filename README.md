@@ -25,7 +25,6 @@ We prefer TypeScript and use TSLint to lint it. Our primary base configuration i
 {
   "extends": ["@thorough/dev-configs/tslint/base"],
   "rules": {
-    // Your rule overrides here. For example:
     "no-submodule-imports": [true, "date-fns/esm"]
   }
 }
