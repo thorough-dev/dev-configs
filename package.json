@@ -1,0 +1,24 @@
+{
+  "name": "@thorough/dev-configs",
+  "version": "0.1.0",
+  "description": "The default development configurations for Thorough code.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorough-dev/dev-configs.git"
+  },
+  "keywords": [
+    "config",
+    "linter",
+    "tslint",
+    "prettierjs"
+  ],
+  "author": "Zachary Jones <zachary@thorough.company>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thorough-dev/dev-configs/issues"
+  },
+  "homepage": "https://github.com/thorough-dev/dev-configs#readme",
+  "dependencies": {
+    "tslint-config-prettier": "^1.13.0"
+  }
+}
