@@ -12,8 +12,7 @@ To extend from our configuration you can use something like this in your project
 const defaults = require('@thorough/dev-configs/prettier/base');
 
 module.exports = Object.assign({}, defaults, {
-  // Your personal overrides here. For example:
-  useTabs: true  // If you like to live dangerously.
+  // Your personal overrides here.
 });
 ```
 
