@@ -1,6 +1,6 @@
 /**
- * The Thorough Default Prettier configuration. It is imported in projects
- * and easily overridable there.
+ * The Thorough Default Prettier configuration. It is imported in
+ * projects and easily overridable there.
  */
 
 module.exports = {
