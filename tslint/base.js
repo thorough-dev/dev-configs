@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   defaultSeverity: 'warning',
   extends: [
-    "tslint:all",
+    'tslint-config-airbnb',
     path.join(
       path.dirname(require.resolve('tslint-config-prettier')),
       'index'
