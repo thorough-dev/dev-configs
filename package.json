@@ -18,11 +18,11 @@
     "url": "https://github.com/thorough-dev/dev-configs/issues"
   },
   "homepage": "https://github.com/thorough-dev/dev-configs#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "tslint": "^5.10.0",
     "tslint-config-prettier": "^1.13.0",
     "typescript": "^2.9.1",
     "tslint-config-airbnb": "^5.11.0"
-  },
-  "dependencies": {}
+  }
 }
