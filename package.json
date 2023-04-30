@@ -1,6 +1,6 @@
 {
   "name": "@thorough/dev-configs",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "description": "The default development configurations for Thorough code.",
   "repository": {
     "type": "git",
