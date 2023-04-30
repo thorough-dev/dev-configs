@@ -21,8 +21,8 @@
   "devDependencies": {},
   "dependencies": {
     "tslint": "^5.10.0",
+    "tslint-config-airbnb": "^5.11.0",
     "tslint-config-prettier": "^1.13.0",
-    "typescript": "^2.9.1",
-    "tslint-config-airbnb": "^5.11.0"
+    "typescript": "^5.0.4"
   }
 }
