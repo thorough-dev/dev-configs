@@ -19,6 +19,6 @@
   "homepage": "https://github.com/thorough-dev/dev-configs#readme",
   "devDependencies": {},
   "dependencies": {
-    "typescript": "^5.0.4"
+    "typescript": "^5.4.4"
   }
 }
